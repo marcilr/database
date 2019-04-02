@@ -10,3 +10,6 @@ database.txt
 
 links.txt
   Database related links
+
+manifest
+  Manifest file for use by resync script
