@@ -30,4 +30,5 @@
 # Source                                      Target
 # ------------------------------------------------------
 ssh://git@github.com/marcilr/mysql.git        mysql
+ssh://git@github.com/marcilr/oracle.git       oracle
 ssh://git@github.com/marcilr/postgresql.git   postgresql
