@@ -1,0 +1,10 @@
+#.gitignore
+# Created Mon 13 Jul 2020 10:30:15 AM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+mysql/
+oracle/
+postgresql/
