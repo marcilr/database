@@ -5,6 +5,9 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 database.txt
   Database
 
@@ -13,3 +16,19 @@ links.txt
 
 manifest
   Manifest file for use by resync script
+
+mysql/
+  MySQL Cluster enables users to meet the database 
+  challenges of next generation web, cloud, and 
+  communications services with uncompromising
+  scalability, ...
+  https://www.mysql.com/
+
+oracle/
+  Database, cloud infrastructure, and cloud applications
+  https://www.oracle.com/index.html
+
+postgresql
+  PostgreSQL: The World's Most Advanced Open Source 
+  Relational Database
+  https://www.postgresql.org/
